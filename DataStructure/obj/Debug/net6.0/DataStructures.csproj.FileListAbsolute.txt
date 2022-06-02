@@ -1,0 +1,12 @@
+C:\Users\truon\Desktop\WorkSpace\Csharp\Data-Structures-Implementations-in-Csharp\DataStructure\bin\Debug\net6.0\DataStructures.deps.json
+C:\Users\truon\Desktop\WorkSpace\Csharp\Data-Structures-Implementations-in-Csharp\DataStructure\bin\Debug\net6.0\DataStructures.dll
+C:\Users\truon\Desktop\WorkSpace\Csharp\Data-Structures-Implementations-in-Csharp\DataStructure\bin\Debug\net6.0\ref\DataStructures.dll
+C:\Users\truon\Desktop\WorkSpace\Csharp\Data-Structures-Implementations-in-Csharp\DataStructure\bin\Debug\net6.0\DataStructures.pdb
+C:\Users\truon\Desktop\WorkSpace\Csharp\Data-Structures-Implementations-in-Csharp\DataStructure\obj\Debug\net6.0\DataStructures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\truon\Desktop\WorkSpace\Csharp\Data-Structures-Implementations-in-Csharp\DataStructure\obj\Debug\net6.0\DataStructures.AssemblyInfoInputs.cache
+C:\Users\truon\Desktop\WorkSpace\Csharp\Data-Structures-Implementations-in-Csharp\DataStructure\obj\Debug\net6.0\DataStructures.AssemblyInfo.cs
+C:\Users\truon\Desktop\WorkSpace\Csharp\Data-Structures-Implementations-in-Csharp\DataStructure\obj\Debug\net6.0\DataStructures.csproj.CoreCompileInputs.cache
+C:\Users\truon\Desktop\WorkSpace\Csharp\Data-Structures-Implementations-in-Csharp\DataStructure\obj\Debug\net6.0\DataStructures.dll
+C:\Users\truon\Desktop\WorkSpace\Csharp\Data-Structures-Implementations-in-Csharp\DataStructure\obj\Debug\net6.0\ref\DataStructures.dll
+C:\Users\truon\Desktop\WorkSpace\Csharp\Data-Structures-Implementations-in-Csharp\DataStructure\obj\Debug\net6.0\DataStructures.pdb
+C:\Users\truon\Desktop\WorkSpace\Csharp\Data-Structures-Implementations-in-Csharp\DataStructure\obj\Debug\net6.0\DataStructures.csproj.AssemblyReference.cache
