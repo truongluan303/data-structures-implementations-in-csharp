@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\truon\\Desktop\\WorkSpace\\Csharp\\Data-Structures-Implementations-in-Csharp\\DataStructure\\DataStructures.csproj",
-      "projectName": "DataStructures",
-      "projectPath": "C:\\Users\\truon\\Desktop\\WorkSpace\\Csharp\\Data-Structures-Implementations-in-Csharp\\DataStructure\\DataStructures.csproj",
+      "projectUniqueName": "C:\\Users\\truon\\Desktop\\WorkSpace\\Csharp\\Data-Structures-Implementations-in-Csharp\\DataStructure\\DataStructure.csproj",
+      "projectName": "DataStructure",
+      "projectPath": "C:\\Users\\truon\\Desktop\\WorkSpace\\Csharp\\Data-Structures-Implementations-in-Csharp\\DataStructure\\DataStructure.csproj",
       "packagesPath": "C:\\Users\\truon\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\truon\\Desktop\\WorkSpace\\Csharp\\Data-Structures-Implementations-in-Csharp\\DataStructure\\obj\\",
       "projectStyle": "PackageReference",

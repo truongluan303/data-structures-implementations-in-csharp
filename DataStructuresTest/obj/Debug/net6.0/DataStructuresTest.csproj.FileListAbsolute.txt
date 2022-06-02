@@ -97,5 +97,5 @@ C:\Users\truon\Desktop\WorkSpace\Csharp\Data-Structures-Implementations-in-Cshar
 C:\Users\truon\Desktop\WorkSpace\Csharp\Data-Structures-Implementations-in-Csharp\DataStructuresTest\obj\Debug\net6.0\DataStructuresTest.pdb
 C:\Users\truon\Desktop\WorkSpace\Csharp\Data-Structures-Implementations-in-Csharp\DataStructuresTest\obj\Debug\net6.0\DataStructuresTest.genruntimeconfig.cache
 C:\Users\truon\Desktop\WorkSpace\Csharp\Data-Structures-Implementations-in-Csharp\DataStructuresTest\bin\Debug\net6.0\CoverletSourceRootsMapping
-C:\Users\truon\Desktop\WorkSpace\Csharp\Data-Structures-Implementations-in-Csharp\DataStructuresTest\bin\Debug\net6.0\DataStructures.dll
-C:\Users\truon\Desktop\WorkSpace\Csharp\Data-Structures-Implementations-in-Csharp\DataStructuresTest\bin\Debug\net6.0\DataStructures.pdb
+C:\Users\truon\Desktop\WorkSpace\Csharp\Data-Structures-Implementations-in-Csharp\DataStructuresTest\bin\Debug\net6.0\DataStructure.dll
+C:\Users\truon\Desktop\WorkSpace\Csharp\Data-Structures-Implementations-in-Csharp\DataStructuresTest\bin\Debug\net6.0\DataStructure.pdb

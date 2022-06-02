@@ -1661,14 +1661,14 @@
           "lib/netstandard1.3/System.Xml.XDocument.dll": {}
         }
       },
-      "DataStructures/1.0.0": {
+      "DataStructure/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "compile": {
-          "bin/placeholder/DataStructures.dll": {}
+          "bin/placeholder/DataStructure.dll": {}
         },
         "runtime": {
-          "bin/placeholder/DataStructures.dll": {}
+          "bin/placeholder/DataStructure.dll": {}
         }
       }
     }
@@ -6204,15 +6204,15 @@
         "system.xml.xdocument.nuspec"
       ]
     },
-    "DataStructures/1.0.0": {
+    "DataStructure/1.0.0": {
       "type": "project",
-      "path": "../DataStructure/DataStructures.csproj",
-      "msbuildProject": "../DataStructure/DataStructures.csproj"
+      "path": "../DataStructure/DataStructure.csproj",
+      "msbuildProject": "../DataStructure/DataStructure.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
-      "DataStructures >= 1.0.0",
+      "DataStructure >= 1.0.0",
       "MSTest.TestAdapter >= 2.2.7",
       "MSTest.TestFramework >= 2.2.7",
       "Microsoft.NET.Test.Sdk >= 16.11.0",
@@ -6251,8 +6251,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\truon\\Desktop\\WorkSpace\\Csharp\\Data-Structures-Implementations-in-Csharp\\DataStructure\\DataStructures.csproj": {
-              "projectPath": "C:\\Users\\truon\\Desktop\\WorkSpace\\Csharp\\Data-Structures-Implementations-in-Csharp\\DataStructure\\DataStructures.csproj"
+            "C:\\Users\\truon\\Desktop\\WorkSpace\\Csharp\\Data-Structures-Implementations-in-Csharp\\DataStructure\\DataStructure.csproj": {
+              "projectPath": "C:\\Users\\truon\\Desktop\\WorkSpace\\Csharp\\Data-Structures-Implementations-in-Csharp\\DataStructure\\DataStructure.csproj"
             }
           }
         }
